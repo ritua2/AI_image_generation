@@ -24,63 +24,62 @@ This repository contains sample prompts for generating scientific illustrations.
 
 Below is the detailed structure of the repository:
 
-```txt
-AI\_image\_generation/
-├─ anatomy/
-│  └─ organ\_models/
-│     ├─ anatomical\_organ\_model\_female\_silhouette\_prompt.txt
-│     └─ anatomical\_organ\_model\_male\_silhouette\_prompt.txt
-│
-├─ pathways/
-│  ├─ apoptosis/
-│  │  └─ apoptosis\_pathway\_prompt.txt
-│  ├─ cell\_signaling/
-│  │  ├─ cell\_signaling\_pathway\_and\_gene\_activation\_prompt.txt
-│  │  └─ intercellular\_signalling\_cascade\_prompt.txt
-│  ├─ communication/
-│  │  └─ gut\_brain\_axis/
-│  │     └─ gut\_brain\_axis\_crosstalk\_prompt.txt
-│  └─ gene\_regulation/
-│     └─ gene\_expression\_regulation\_prompt.txt
-│
-├─ pathways\_additional/
-│  ├─ immune\_trafficking/
-│  │  └─ intestinal\_epithelium\_diapedesis/
-│  │     └─ intestinal\_epithelium\_diapedesis\_prompt.txt
-│  └─ tumor\_microenvironment/
-│     └─ tumor\_microenvironment\_diagram\_prompt.txt
-│
-├─ workflows/
-│  ├─ cell\_processing\_microscopy/
-│  │  └─ centrifugation\_and\_microscopy\_workflow\_prompt.txt
-│  ├─ lab\_workflows/
-│  │  ├─ liquid\_handling\_and\_protocol\_flow\_prompt.txt
-│  │  ├─ experimental\_workflow\_diagram\_prompt.txt
-│  │  └─ three\_step\_workflow\_for\_cell\_lysis\_and\_rna\_extraction\_prompt.txt
-│  └─ protein\_workflows/
-│     ├─ four\_step\_schematic\_of\_target\_protein\_capture\_and\_elution\_prompt.txt
-│     └─ protein\_handling\_and\_downstream\_assay\_prompt.txt
-│
-├─ techniques/
-│  ├─ genome\_editing/
-│  │  └─ crispr\_cas9/
-│  │     └─ crispr\_cas9\_genome\_editing\_prompt.txt
-│  ├─ delivery\_systems/
-│  │  ├─ lipid\_nanoparticles/
-│  │  │  └─ lipid\_nanoparticle\_mrna\_editing\_mechanism\_prompt.txt
-│  │  └─ liposomes/
-│  │     └─ liposome\_nanoparticle\_structure\_prompt.txt
-│  └─ receptor\_interactions/
-│     ├─ receptor\_ligand\_binding/
-│     │  └─ receptor\_ligand\_binding\_prompt.txt
-│     └─ transmembrane\_activation/
-│        └─ transmembrane\_receptor\_activation\_prompt.txt
-│
-└─ templates/
-   └─ three\_panel\_and\_samples/
-      ├─ general\_template\_3panel\_diagram\_prompt.txt
-      └─ sample\_scientific\_workflow\_with\_text\_at\_the\_bottom\_prompt.txt
+## Directory structure (clickable)
 
+- `AI_image_generation/anatomy/`
+  - `AI_image_generation/anatomy/organ_models/`
+    - `AI_image_generation/anatomy/organ_models/anatomical_organ_model_female_silhouette_prompt.txt`
+    - `AI_image_generation/anatomy/organ_models/anatomical_organ_model_male_silhouette_prompt.txt`
+
+- `AI_image_generation/pathways/`
+  - `AI_image_generation/pathways/apoptosis/`
+    - `AI_image_generation/pathways/apoptosis/apoptosis_pathway_prompt.txt`
+  - `AI_image_generation/pathways/cell_signaling/`
+    - `AI_image_generation/pathways/cell_signaling/cell_signaling_pathway_and_gene_activation_prompt.txt`
+    - `AI_image_generation/pathways/cell_signaling/intercellular_signalling_cascade_prompt.txt`
+  - `AI_image_generation/pathways/communication/`
+    - `AI_image_generation/pathways/communication/gut_brain_axis/`
+      - `AI_image_generation/pathways/communication/gut_brain_axis/gut_brain_axis_crosstalk_prompt.txt`
+  - `AI_image_generation/pathways/gene_regulation/`
+    - `AI_image_generation/pathways/gene_regulation/gene_expression_regulation_prompt.txt`
+
+- `AI_image_generation/pathways_additional/`
+  - `AI_image_generation/pathways_additional/immune_trafficking/`
+    - `AI_image_generation/pathways_additional/immune_trafficking/intestinal_epithelium_diapedesis/`
+      - `AI_image_generation/pathways_additional/immune_trafficking/intestinal_epithelium_diapedesis/intestinal_epithelium_diapedesis_prompt.txt`
+  - `AI_image_generation/pathways_additional/tumor_microenvironment/`
+    - `AI_image_generation/pathways_additional/tumor_microenvironment/tumor_microenvironment_diagram_prompt.txt`
+
+- `AI_image_generation/workflows/`
+  - `AI_image_generation/workflows/cell_processing_microscopy/`
+    - `AI_image_generation/workflows/cell_processing_microscopy/centrifugation_and_microscopy_workflow_prompt.txt`
+  - `AI_image_generation/workflows/lab_workflows/`
+    - `AI_image_generation/workflows/lab_workflows/liquid_handling_and_protocol_flow_prompt.txt`
+    - `AI_image_generation/workflows/lab_workflows/experimental_workflow_diagram_prompt.txt`
+    - `AI_image_generation/workflows/lab_workflows/three_step_workflow_for_cell_lysis_and_rna_extraction_prompt.txt`
+  - `AI_image_generation/workflows/protein_workflows/`
+    - `AI_image_generation/workflows/protein_workflows/four_step_schematic_of_target_protein_capture_and_elution_prompt.txt`
+    - `AI_image_generation/workflows/protein_workflows/protein_handling_and_downstream_assay_prompt.txt`
+
+- `AI_image_generation/techniques/`
+  - `AI_image_generation/techniques/genome_editing/`
+    - `AI_image_generation/techniques/genome_editing/crispr_cas9/`
+      - `AI_image_generation/techniques/genome_editing/crispr_cas9/crispr_cas9_genome_editing_prompt.txt`
+  - `AI_image_generation/techniques/delivery_systems/`
+    - `AI_image_generation/techniques/delivery_systems/lipid_nanoparticles/`
+      - `AI_image_generation/techniques/delivery_systems/lipid_nanoparticles/lipid_nanoparticle_mrna_editing_mechanism_prompt.txt`
+    - `AI_image_generation/techniques/delivery_systems/liposomes/`
+      - `AI_image_generation/techniques/delivery_systems/liposomes/liposome_nanoparticle_structure_prompt.txt`
+  - `AI_image_generation/techniques/receptor_interactions/`
+    - `AI_image_generation/techniques/receptor_interactions/receptor_ligand_binding/`
+      - `AI_image_generation/techniques/receptor_interactions/receptor_ligand_binding/receptor_ligand_binding_prompt.txt`
+    - `AI_image_generation/techniques/receptor_interactions/transmembrane_activation/`
+      - `AI_image_generation/techniques/receptor_interactions/transmembrane_activation/transmembrane_receptor_activation_prompt.txt`
+
+- `AI_image_generation/templates/`
+  - `AI_image_generation/templates/three_panel_and_samples/`
+    - `AI_image_generation/templates/three_panel_and_samples/general_template_3panel_diagram_prompt.txt`
+    - `AI_image_generation/templates/three_panel_and_samples/sample_scientific_workflow_with_text_at_the_bottom_prompt.txt`
 
 (Also present in the aforementioned folders are images corresponding to the prompts:)
 - anatomical_organ_model_female_silhouette_prompt_image.png
