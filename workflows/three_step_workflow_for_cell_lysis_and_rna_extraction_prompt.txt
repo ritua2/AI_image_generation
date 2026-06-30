@@ -1,0 +1,7 @@
+A clean, professional, publication-quality scientific diagram in a 2D vector illustration style, mimicking a BioRender or Nature Reviews journal figure. The background is a soft, light off-white color. The layout is an explicit left-to-right linear workflow featuring three distinct pastel-colored panels with rounded corners. 
+
+- Panel 1 (Soft Beige, labeled "Sample Preparation"): Contains a 2D vector illustration of a conical flask filled with a yellow liquid, cleanly labeled "Bacterial Culture" with a straight pointer line.
+- Panel 2 (Soft Blue-Lavender, labeled "Centrifugation and Washing"): Features an open benchtop laboratory centrifuge. An inset circle highlights a detailed falcon tube showing a separated "Cell Pellet" at the bottom and "Spent" supernatant. Clean black arrows connect Panel 1 to Panel 2.
+- Panel 3 (Soft Pink-Red, labeled "Cell Lysis & RNA Extraction"): Depicts a detailed cross-section of a disrupted phospholipid bilayer cell membrane. It shows "Lysis Buffer" molecules entering a gap, disrupting the membrane, and "Released Total RNA" single strands exiting alongside "Released Buffer". Clean black arrows connect Panel 2 to Panel 3.
+
+All text is rendered horizontally in a crisp, clean sans-serif font. The artwork avoids all 3D glossy effects, complex gradients, and dramatic shadows, prioritizing anatomical accuracy and minimal, flat-vector aesthetics.

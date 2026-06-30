@@ -1,0 +1,9 @@
+[Aesthetic/Style]: A 2.5D isometric medical macro-to-micro tissue illustration, BioRender vector graphic style.
+[Setting/Background]: Plain white background.
+[Composition]: 
+- At the base: A stylized, healthy pink [Tissue type, e.g., intestinal epithelium] wall with clear, repeating villi structures.
+- A cross-section of a [Color] blood vessel running parallel beneath the tissue layer.
+[Key Elements]:
+- Inside the blood vessel: Spherical, smooth red blood cells and distinct star-shaped [Color] immune cells.
+- One immune cell is actively squeezing through the endothelial wall (diapedesis) toward a cluster of irregular, [Color] damaged cells on the epithelial surface.
+[Lighting/Texture]: Crisp edges, clean distinct borders, semi-translucent overlays for fluids or mucus layers. No sketchy lines, no photographic elements, no text, and no dark drop-shadows.

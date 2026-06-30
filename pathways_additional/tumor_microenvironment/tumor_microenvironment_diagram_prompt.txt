@@ -1,0 +1,11 @@
+[Aesthetic/Style]: A professional 2.5D isometric scientific diagram of an active tumor microenvironment, BioRender graphic vector style. 
+[Setting/Background]: Set against a solid, stark white background with clear structural zoning.
+[Composition]: 
+- Left zone: A tightly clustered mass of irregular, deep teal-colored tumor cells, some showing fragmented membrane paths to indicate apoptosis.
+- Center zone: A cross-section of a leaking, pinkish endothelial blood vessel running diagonally, with simple red blood cell discs visible inside.
+- Right zone: Active immune cell infiltration zone.
+[Iconography & Key Elements]: 
+- Multiple distinct immune cell types: Circular purple T-cells extending thin vector membrane projections, multi-lobed blue neutrophils, and large, irregular orange macrophage cells.
+- Tiny, multi-colored spherical vector dots scattered in the extracellular matrix to represent a gradient of cytokines and chemokines (chemokine trail).
+- Y-shaped translucent blue monoclonal antibody icons are shown specifically binding to surface receptor proteins on both the T-cells and tumor cells.
+[Lighting/Texture]: High contrast, solid vector coloring, minimal semi-translucent overlays for secreted fluids, sharp boundaries. Strictly no text, no captions, no 3D ray-tracing, and no photo textures. Publication-ready graphical abstract.

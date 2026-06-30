@@ -1,0 +1,9 @@
+[Aesthetic/Style]: A two-panel comparative macro-to-micro physiological schematic, professional BioRender vector illustration style.
+[Setting/Background]: Plain, stark white background split vertically into Panel A and Panel B by a subtle grey divider line.
+[Composition]: 
+- Panel A (Left): A macro-view showing a simplified silhouette of a human torso containing a stylized pink intestinal tract and a purple brain silhouette. A bold, two-way curved dotted vector arrow connects the two organs to show systemic crosstalk.
+- Panel B (Right): A micro-view zooming into the gut wall. A horizontal layer of neat, columnar epithelial cells with fine microvilli brush borders at the top. 
+[Iconography & Key Elements]:
+- Beneath the epithelial layer: A distinct network of elongated green neuron vector lines with branching dendrites and synaptic terminals.
+- Floating near the synapses: Small, bright yellow star-shaped neurotransmitter icons and tiny green rod-shaped gut microbiota icons sitting above the microvilli layer.
+[Lighting/Texture]: Crisp flat vector art, clear mathematical alignments, bright academic color palette (pink, purple, green, yellow). Completely avoid dark drop shadows, blurred gradients, photorealism, and text labels.

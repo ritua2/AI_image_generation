@@ -1,0 +1,7 @@
+Style: Create a clean, professional, publication-quality scientific diagram in a 2D vector illustration style, exactly like a BioRender or Nature Reviews journal figure. Use a clean, light off-white or soft gray background. Use distinct, soft pastel-colored panels with rounded corners to separate distinct steps.
+Layout: Organize the diagram as a [Choose one: Left-to-Right linear workflow / 2x2 grid matrix / central circular pathway].
+Content & Steps:
+Panel 1 (Labeled "[Name of Step 1]"): Show a [Describe asset, e.g., conical flask containing a yellow solution]. Include a clear text label pointing to [specific part].
+Panel 2 (Labeled "[Name of Step 2]"): Show a [Describe asset, e.g., a cross-section of a cell membrane with phospholipid bilayer] with an arrow leading from Panel 1.
+Panel 3 (Labeled "[Name of Step 3]"): [Describe asset and action].
+Text & Aesthetic Controls: All text must be crisp, perfectly spelled, horizontally aligned, and rendered in a clean sans-serif font. Avoid any artistic clutter, 3D glossy effects, or dramatic lighting shadows. Every icon must be anatomically and scientifically accurate.

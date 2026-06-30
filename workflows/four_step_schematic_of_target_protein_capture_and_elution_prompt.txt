@@ -1,0 +1,17 @@
+Generate a diagram with the following specifications.
+
+Style: Create a clean, professional, publication-quality scientific diagram in a 2D vector illustration style, exactly like a BioRender or Nature Reviews journal figure. Use a clean, light off-white or soft gray background. Use distinct, soft pastel-colored panels with rounded corners to separate distinct steps.
+
+Layout: Organize the diagram as a 2x2 grid matrix, numbered 1 through 4 with small circular labels in the upper-left corner of each panel. Connect the steps sequentially using crisp, solid black directional arrows.
+
+Content & Steps:
+
+Panel 1 (Labeled "Cell Lysate Preparation"):** Soft blue panel. Show a 2D vector graphic of a glass conical Erlenmeyer flask filled with a yellowish liquid containing small floating particles. Place the flask on top of a gray digital magnetic laboratory stirrer. Include a clean text label pointing to the fluid inside that reads "Crude Lysate Solution".
+
+Panel 2 (Labeled "Target Protein Capture"):** Soft green panel. Show a detailed cross-section of a cell membrane's lipid bilayer consisting of light blue hydrophilic heads and yellow hydrophobic tails. Embed purple transmembrane receptor proteins into the bilayer. Below the membrane, show floating green target proteins binding to the receptors, alongside various unbound blue shapes representing cellular debris.
+
+Panel 3 (Labeled "Affinity Membrane Separation"):** Soft orange panel. Show a stacked membrane purification cartridge on the left with fluid dripping into a beaker below. To the right, show a zoomed-in callout bubble of the internal matrix: a multi-layered membrane containing the purple receptors holding onto the green target proteins, while gray dots labeled "Equilibration Buffer" pass through. Include a text label at the bottom reading "Unbound impurities".
+
+Panel 4 (Labeled "Elution and Fraction Collection"):** Soft red panel. Show the same stacked membrane cartridge from Panel 3, but with blue dots labeled "Elution Buffer" being poured into the top. Show arrows indicating the released green target proteins dripping down into a laboratory rack holding multiple microcentrifuge tubes labeled "Tube 2, 3, 4, 5, 6". Highlight Tube 4 with a glowing yellow effect and a clear pointer label reading "Eluted Target Protein".
+
+Text & Aesthetic Controls: All text must be crisp, perfectly spelled, horizontally aligned, and rendered in a clean, professional sans-serif font like Arial or Helvetica. Avoid any artistic clutter, 3D glossy effects, or dramatic lighting shadows. Every icon, piece of glassware, and molecular structure must be anatomically and scientifically accurate. Use solid, clean flat colors with minimal gradient shading for depth.

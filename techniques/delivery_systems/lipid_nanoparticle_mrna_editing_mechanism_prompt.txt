@@ -1,0 +1,8 @@
+[Aesthetic/Style]: A detailed, highly technical multi-step molecular biology mechanism, clean BioRender schematic vector style.
+[Setting/Background]: Pure, minimalist solid white backdrop.
+[Composition]: A clear linear progression tracing an engineered delivery vehicle entering a cell to edit DNA.
+[Iconography & Key Elements]:
+- Element 1 (Left): A large cross-section cutaway of a spherical lipid nanoparticle shell made of repeating geometric lipid heads, enclosing a tightly coiled, vibrant blue mRNA strand inside its core.
+- Element 2 (Center): The mRNA strand is shown outside the nanoparticle, being threaded through a simplified, cartoonish green ribbon-style ribosome structure to produce a purple protein chain.
+- Element 3 (Right): The fully folded purple Cas9 protein complex holding a red single-guide RNA (sgRNA) loop, clamped tightly onto a dual-strand spiraling DNA helix. The DNA helix has a prominent multi-colored base mismatch site being actively edited.
+[Lighting/Texture]: Mathematical precision, highly distinct color-coding for different genetic elements, flat color blocking with crisp highlights. No text, no letters, no grainy patterns, and no 3D rendering artifacts.

@@ -1,0 +1,19 @@
+Generate an image that is a professional, publication-quality scientific workflow diagram titled "EXPERIMENTAL WORKFLOW: PROTEIN-LOADED LIPOSOMES & CELLULAR UPTAKE." It uses a clean, 2D vector illustration style reminiscent of a BioRender or Nature Reviews figure. The diagram is organized as a linear, left-to-right timeline broken into four distinct, vertical, pastel-colored panels with rounded corners. Each panel is connected sequentially by a thick, dark gray arrow.
+At the very bottom of the canvas, there is a dedicated text block labeled "ALT-TEXT DESCRIPTION" summarizing the layout.
+Detailed Breakdown of Panels
+Step 1: Liposome Preparation (Thin-Film Hydration) — Blue Panel
+This panel illustrates the initial phase of formulating liposomes using chemical and mechanical processes.
+Top Graphics: A large Erlenmeyer flask contains a yellow liquid at the bottom, labeled "Dried Lipid Film." Pointer lines indicate the introduction of "Organic Solvents (Chloroform, Methanol)" and the escape of "Evaporated Vapor." A curved arrow pointing to the flask denotes "Evaporation under vacuum." A miniature version of the flask sits to the left.
+Bottom Graphic: A detailed schematic of a laboratory rotary evaporator (rotovap) setup, including the diagonal condenser flask and the round-bottom flask rotating in a heated water bath, containing the yellow lipid solution.
+Step 2: Protein Loading & Extrusion — Green Panel
+This section focuses on introducing the biological payload and sizing down the vesicles.
+Top Graphics: A laboratory micropipette is shown dispensing an "Aqueous Protein Solution" (represented by small purple clusters) into an Erlenmeyer flask. The flask contains larger, concentric lipid structures labeled "Multilamellar Vesicles (MLVs)", which are also magnified in a circular inset to the right.
+Bottom Graphics: A downward arrow leads to a mechanical extrusion setup. A syringe system forces the solution through a "Track-etched Membrane Filter" (specifically a "100 nm Pore Filter"). A circular inset magnifying the output shows "Unilamellar Vesicles (ULVs)"—smaller, single-layered spheres encapsulating the purple protein clusters.
+Step 3: Post-Production Purification — Yellow Panel
+This phase details how the successfully loaded liposomes are isolated from contaminants and free proteins.
+Top Graphics: A vertical Size-Exclusion Chromatography (SEC) Column is shown. A magnified schematic of the column's internal fractionation layer separates the mixture into three distinct bands: "Protein-loaded Liposomes" (yellow circles enclosing dots), "Empty Liposomes" (hollow blue circles), and "Free Protein" (purple clusters). A small A280 ultraviolet absorbance elution peak graph sits adjacent to the column.
+Bottom Graphics: A Dialysis setup features a glass beaker filled with a magnetic stirrer bar and "Buffer (pH 7.4)." Submerged in the liquid is a "Dialysis Bag, MWCO: 100kDa" containing the "Purified Liposomes," while smaller "Free Protein" molecules are shown diffusing out through the membrane pores into the surrounding buffer.
+Step 4: Characterization & Uptake — Purple Panel
+The final panel outlines the quality control and biological testing of the purified nanoparticles.
+Top Graphics: A benchtop Dynamic Light Scattering (DLS) instrument is depicted next to its resulting data plot. The line graph plots "Intensity (%)" on the y-axis against a "Diameter (nm)" scale ranging from 0 to 300 on the x-axis, showing a clean, single peak centered around 150 nm.
+Bottom Graphics: The "Cellular Uptake" phase is illustrated using a cross-section of a eukaryotic cell showing its nucleus, endoplasmic reticulum, and Golgi apparatus. An encapsulated "Labeled Liposome" is shown undergoing endocytosis ("Labeled formation"). A circular inset zooms into a green Fluorescence Microscopy micrograph showing a clear ring of fluorescent signal labeled "Endosome.

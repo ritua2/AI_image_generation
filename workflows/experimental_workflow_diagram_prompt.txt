@@ -1,0 +1,7 @@
+[Aesthetic/Style]: A multi-step linear experimental workflow diagram, BioRender flat vector style.
+[Setting/Background]: Solid, clean white background.
+[Composition]: A clear left-to-right sequence of three distinct steps separated by clean, bold horizontal vector arrows.
+[Step 1 (Left)]: A clean, minimalist 2D side-profile vector icon of a [Subject, e.g., laboratory mouse] being treated with a small, simple [Color] syringe.
+[Step 2 (Center)]: A transparent 3D-angled [Type of glassware, e.g., microcentrifuge tube] filled with a translucent [Color] liquid layer and a small pellet at the bottom.
+[Step 3 (Right)]: A simple multi-well cell culture plate with distinct [Color] fluorescent cells growing inside the wells.
+[Lighting/Texture]: High contrast, solid colors, minimal soft highlights, flat design. No text, no grids, no cluttered background elements, and no complex shadows. Perfect for a graphical abstract.

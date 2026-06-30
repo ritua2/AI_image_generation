@@ -1,0 +1,8 @@
+[Aesthetic/Style]: A detailed schematic vector diagram of a nanomaterial biomatrix, BioRender style.
+[Setting/Background]: Solid white backdrop.
+[Composition]: Central focus on a single, large cross-section cutaway view of a spherical liposome nanoparticle.
+[Key Elements]:
+- The outer shell is a distinct double-layer of tightly packed, neat [Color] phospholipids.
+- The hollow core of the sphere is translucent [Color] fluid containing tiny, crystalline [Color] therapeutic drug molecules.
+- Embedded on the outer surface of the sphere are small, distinct [Color] targeting antibody chains shaped like clean "Y" letters.
+[Lighting/Texture]: Clean mathematical alignment, vibrant contrasting colors, smooth digital vector paths. No grainy textures, no motion blur, no labels, and no 3D ray-tracing effects.

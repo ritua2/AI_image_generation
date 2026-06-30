@@ -1,0 +1,10 @@
+[Aesthetic/Style]: A clean, 2D vector scientific illustration in the style of BioRender. 
+[Setting/Background]: Set against a solid, stark white background. 
+[Composition]: 
+- A cross-section of a smooth [Color, e.g., pastel blue] lipid bilayer cell membrane spans horizontally across the middle.
+- Extracellular space is at the top; intracellular cytoplasm is at the bottom.
+[Key Elements]:
+- On the membrane: A [Color, e.g., deep purple] transmembrane receptor protein with a distinct extracellular binding pocket.
+- Extracellular: A small [Color, e.g., bright orange] spherical ligand is bound tightly into the receptor pocket.
+- Intracellular: A glowing [Color] secondary messenger molecule branching out with clean, crisp directional arrow vectors pointing down toward a simplified nucleus.
+[Lighting/Texture]: Flat vector shading with subtle, smooth gradients to show depth. Absolutely no photorealism, no 3D textures, no shadows, no text labels, and no black outlines. Clean and publication-quality.
