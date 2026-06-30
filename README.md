@@ -2,6 +2,8 @@
 
 This repository contains sample prompts for generating scientific illustrations. The generated images produced from those prompts are included as well.
 
+![four step schematic of target protein capture and elution image](workflows/four_step_schematic_of_target_protein_capture_and_elution_image.png)
+
 ## Directory structure
 
 - `anatomy/`
