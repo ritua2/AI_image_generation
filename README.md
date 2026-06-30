@@ -25,61 +25,41 @@ This repository contains sample prompts for generating scientific illustrations.
 Below is the detailed structure of the repository:
 
 ## Directory structure (clickable)
+## Directory structure (clickable)
 
-- `AI_image_generation/anatomy/`
-  - `AI_image_generation/anatomy/organ_models/`
-    - `AI_image_generation/anatomy/organ_models/anatomical_organ_model_female_silhouette_prompt.txt`
-    - `AI_image_generation/anatomy/organ_models/anatomical_organ_model_male_silhouette_prompt.txt`
+- [AI_image_generation/anatomy](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/anatomy)
+  - [AI_image_generation/anatomy/organ_models](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/anatomy/organ_models)
 
-- `AI_image_generation/pathways/`
-  - `AI_image_generation/pathways/apoptosis/`
-    - `AI_image_generation/pathways/apoptosis/apoptosis_pathway_prompt.txt`
-  - `AI_image_generation/pathways/cell_signaling/`
-    - `AI_image_generation/pathways/cell_signaling/cell_signaling_pathway_and_gene_activation_prompt.txt`
-    - `AI_image_generation/pathways/cell_signaling/intercellular_signalling_cascade_prompt.txt`
-  - `AI_image_generation/pathways/communication/`
-    - `AI_image_generation/pathways/communication/gut_brain_axis/`
-      - `AI_image_generation/pathways/communication/gut_brain_axis/gut_brain_axis_crosstalk_prompt.txt`
-  - `AI_image_generation/pathways/gene_regulation/`
-    - `AI_image_generation/pathways/gene_regulation/gene_expression_regulation_prompt.txt`
+- [AI_image_generation/pathways](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/pathways)
+  - [AI_image_generation/pathways/apoptosis](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/pathways/apoptosis)
+  - [AI_image_generation/pathways/cell_signaling](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/pathways/cell_signaling)
+  - [AI_image_generation/pathways/communication](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/pathways/communication)
+    - [AI_image_generation/pathways/communication/gut_brain_axis](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/pathways/communication/gut_brain_axis)
+  - [AI_image_generation/pathways/gene_regulation](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/pathways/gene_regulation)
 
-- `AI_image_generation/pathways_additional/`
-  - `AI_image_generation/pathways_additional/immune_trafficking/`
-    - `AI_image_generation/pathways_additional/immune_trafficking/intestinal_epithelium_diapedesis/`
-      - `AI_image_generation/pathways_additional/immune_trafficking/intestinal_epithelium_diapedesis/intestinal_epithelium_diapedesis_prompt.txt`
-  - `AI_image_generation/pathways_additional/tumor_microenvironment/`
-    - `AI_image_generation/pathways_additional/tumor_microenvironment/tumor_microenvironment_diagram_prompt.txt`
+- [AI_image_generation/pathways_additional](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/pathways_additional)
+  - [AI_image_generation/pathways_additional/immune_trafficking](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/pathways_additional/immune_trafficking)
+    - [AI_image_generation/pathways_additional/immune_trafficking/intestinal_epithelium_diapedesis](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/pathways_additional/immune_trafficking/intestinal_epithelium_diapedesis)
+  - [AI_image_generation/pathways_additional/tumor_microenvironment](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/pathways_additional/tumor_microenvironment)
 
-- `AI_image_generation/workflows/`
-  - `AI_image_generation/workflows/cell_processing_microscopy/`
-    - `AI_image_generation/workflows/cell_processing_microscopy/centrifugation_and_microscopy_workflow_prompt.txt`
-  - `AI_image_generation/workflows/lab_workflows/`
-    - `AI_image_generation/workflows/lab_workflows/liquid_handling_and_protocol_flow_prompt.txt`
-    - `AI_image_generation/workflows/lab_workflows/experimental_workflow_diagram_prompt.txt`
-    - `AI_image_generation/workflows/lab_workflows/three_step_workflow_for_cell_lysis_and_rna_extraction_prompt.txt`
-  - `AI_image_generation/workflows/protein_workflows/`
-    - `AI_image_generation/workflows/protein_workflows/four_step_schematic_of_target_protein_capture_and_elution_prompt.txt`
-    - `AI_image_generation/workflows/protein_workflows/protein_handling_and_downstream_assay_prompt.txt`
+- [AI_image_generation/workflows](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/workflows)
+  - [AI_image_generation/workflows/cell_processing_microscopy](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/workflows/cell_processing_microscopy)
+  - [AI_image_generation/workflows/lab_workflows](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/workflows/lab_workflows)
+  - [AI_image_generation/workflows/protein_workflows](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/workflows/protein_workflows)
 
-- `AI_image_generation/techniques/`
-  - `AI_image_generation/techniques/genome_editing/`
-    - `AI_image_generation/techniques/genome_editing/crispr_cas9/`
-      - `AI_image_generation/techniques/genome_editing/crispr_cas9/crispr_cas9_genome_editing_prompt.txt`
-  - `AI_image_generation/techniques/delivery_systems/`
-    - `AI_image_generation/techniques/delivery_systems/lipid_nanoparticles/`
-      - `AI_image_generation/techniques/delivery_systems/lipid_nanoparticles/lipid_nanoparticle_mrna_editing_mechanism_prompt.txt`
-    - `AI_image_generation/techniques/delivery_systems/liposomes/`
-      - `AI_image_generation/techniques/delivery_systems/liposomes/liposome_nanoparticle_structure_prompt.txt`
-  - `AI_image_generation/techniques/receptor_interactions/`
-    - `AI_image_generation/techniques/receptor_interactions/receptor_ligand_binding/`
-      - `AI_image_generation/techniques/receptor_interactions/receptor_ligand_binding/receptor_ligand_binding_prompt.txt`
-    - `AI_image_generation/techniques/receptor_interactions/transmembrane_activation/`
-      - `AI_image_generation/techniques/receptor_interactions/transmembrane_activation/transmembrane_receptor_activation_prompt.txt`
+- [AI_image_generation/techniques](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/techniques)
+  - [AI_image_generation/techniques/genome_editing](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/techniques/genome_editing)
+    - [AI_image_generation/techniques/genome_editing/crispr_cas9](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/techniques/genome_editing/crispr_cas9)
+  - [AI_image_generation/techniques/delivery_systems](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/techniques/delivery_systems)
+    - [AI_image_generation/techniques/delivery_systems/lipid_nanoparticles](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/techniques/delivery_systems/lipid_nanoparticles)
+    - [AI_image_generation/techniques/delivery_systems/liposomes](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/techniques/delivery_systems/liposomes)
+  - [AI_image_generation/techniques/receptor_interactions](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/techniques/receptor_interactions)
+    - [AI_image_generation/techniques/receptor_interactions/receptor_ligand_binding](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/techniques/receptor_interactions/receptor_ligand_binding)
+    - [AI_image_generation/techniques/receptor_interactions/transmembrane_activation](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/techniques/receptor_interactions/transmembrane_activation)
 
-- `AI_image_generation/templates/`
-  - `AI_image_generation/templates/three_panel_and_samples/`
-    - `AI_image_generation/templates/three_panel_and_samples/general_template_3panel_diagram_prompt.txt`
-    - `AI_image_generation/templates/three_panel_and_samples/sample_scientific_workflow_with_text_at_the_bottom_prompt.txt`
+- [AI_image_generation/templates](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/templates)
+  - [AI_image_generation/templates/three_panel_and_samples](https://github.com/ritua2/AI_image_generation/tree/master/AI_image_generation/templates/three_panel_and_samples)
+
 
 (Also present in the aforementioned folders are images corresponding to the prompts:)
 - anatomical_organ_model_female_silhouette_prompt_image.png
