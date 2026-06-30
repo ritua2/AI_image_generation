@@ -1,6 +1,6 @@
 # AI_image_generation
 
-This repository contains sample prompts for generating scientific illustrations. The generated images produced from those prompts are included as well.
+This repository contains sample prompts for generating scientific illustrations. The generated images produced from those prompts are included as well. A sample image generated using one of the prompts is shown below:
 
 ![four step schematic of target protein capture and elution image](workflows/four_step_schematic_of_target_protein_capture_and_elution_image.png)
 
