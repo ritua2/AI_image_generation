@@ -22,7 +22,7 @@ This repository contains sample prompts for generating scientific illustrations.
 - `general_templates/`
   - Reusable diagram/layout templates (e.g., 3-panel templates or sample workflow layouts) that you can adapt for new subjects.
 
-(Also present in the aforementioned folders are images corresponding to the prompts:)
+The images corresponding to the prompts are also present in the aforementioned folders:
 - anatomical_organ_model_female_silhouette_prompt_image.png
 - anatomical_organ_model_male_silhouette_image.png
 - apoptosis_pathway_image.png
