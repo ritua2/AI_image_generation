@@ -1,1 +1,74 @@
-A technical genetic regulation schematic, clean BioRender vector style. Solid white backdrop. A thick blue horizontal strand represents genomic DNA. On the left, a purple crescent-shaped Transcription Factor/Enhancer complex is docked onto an upstream sequence. A black vector arrow points downstream to a large, soft-blue rounded block representing RNA Polymerase actively moving across a green promoter site to transcribe an mRNA strand. High color contrast, sharp vector paths, no text.
+Generate a high-quality academic textbook illustration, molecular biology diagram of RNA Polymerase II transcription initiation. 3D-rendered vector style with smooth organic shading, glossy surfaces, and clean drop-shadow depth on a pure white background.
+
+Create a single-panel schematic with crisp clarity and no clutter.
+
+### Layout & DNA Structure
+- Place a linear DNA double helix horizontally across the frame.
+- Left side = Upstream, right side = Downstream.
+- The DNA opens into a central transcription bubble (open, separated strands) centered at the transcription start site.
+- Inside the bubble:
+  - **Template DNA strand (top):** render a vertical text string aligned with the exposed template strand, colored **blue**, reading exactly:  
+    `3'- A C G T A C G T -5'`
+  - **Nascent RNA transcript (bottom):** render a vertical text string aligned with RNA base positions, colored **red**, emerging from the polymerase to the right, reading exactly:  
+    `5'- U G C A U G C A -> 3'`
+  - Add **delicate vertical dotted connector lines** between each RNA base position and its complementary DNA template base position within the bubble (one dotted connector per base pair).
+
+Promoter regions & start site markers:
+- Above the DNA, add clean brackets/lines labeling three regions: **“Upstream”**, **“Core promoter”**, **“Downstream”**.
+- Add a vertical dashed line marking **transcription start site “+1”** directly above the bubble center.
+
+### Protein Factors & Molecular Assembly (TATA-box specific emphasis)
+- Ensure all factors are positioned along the DNA in the left-to-right order described below.
+
+Upstream promoter binding (-35):
+- At approximately **−35**, place a large **purple multi-subunit** protein assembly bound to DNA.
+- Label this assembly with clear readable text exactly:
+  - “BRE-binding Complex (-35)”
+  - “BRE-BP”
+  - “BRE-AFs”
+- The purple assembly should visually contact the DNA helix at the upstream BRE region.
+
+Core promoter factors:
+- Moving right from the purple complex, place:
+  - A **light green notched** protein labeled **“TFIIB”** clipped onto the DNA helix.
+  - A **vibrant green** protein labeled **“TFIIA”** clipped onto the DNA helix.
+- Position these factors consistently between the upstream assembly and the polymerase at the promoter/bubble site.
+  
+Central catalytic complex:
+- Surround the open transcription bubble with a massive **smooth blue oval** representing:  
+  **“Pol II (with TFIIF)”**  
+- The blue oval must fully encompass the bubble region and align the polymerase active site with the bubble base-pairing site.
+
+Downstream-associated complex:
+- At the downstream exit of the blue Pol II (right side of the polymerase), clamp an **orange multi-lobed** protein complex labeled:  
+  **“TFIIJ/TFIIK”**
+
+### Annotations & Legend Box
+- Use precise, medium-weight sans-serif text (clean, no leader lines except for the required dotted base-pair connectors).
+- Labels must be legible at publication scale and not overlap shapes.
+
+Legend box (bottom left):
+- Add a neat rounded-corner **white legend box**.
+- Inside, include:
+  1) A comparison row for **“Template strand (3'->5')”**
+  2) A comparison row for **“Nascent RNA (5'->3')”**
+  3) A key with colored dots labeled for pairings:
+     - “A-U”
+     - “G-C”
+- Keep the legend minimal and aligned.
+
+RNA synthesis direction (bottom right):
+- Add a **horizontal red arrow** pointing right.
+- Label the arrow exactly: **“RNA synthesis direction 5'->3'”**
+
+### Styling Constraints
+- Pure white background only.
+- Smooth 3D/gloss shading on proteins; flat clean shading on DNA.
+- No blood, no gore, no extraneous organ imagery.
+- No additional proteins beyond: BRE-binding Complex (-35), TFIIB, TFIIS/TFIIA (as stated), Pol II (with TFIIF), TFIIJ/TFIIK.
+- Maintain consistent coloring:
+  - Template DNA text: blue
+  - Nascent RNA text: red
+  - Template/RNA base-pair dots/connectors: thin, subtle lines
+  - Proteins: purple (BRE complex), light green (TFIIB), vibrant green (TFIIA), blue (Pol II), orange (TFIIJ/TFIIK)
+- Aspect ratio: 16:9, centered composition, high resolution.
